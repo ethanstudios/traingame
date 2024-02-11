@@ -1,0 +1,13 @@
+{
+"companyName": "Ethan Stockton",
+"productName": "Ethan's Train Game",
+"dataUrl": "11c8b2f7396b2a3085324a3ef5ec734c.unityweb",
+"wasmCodeUrl": "777d01cd991d7f0a936e016df6771d39.unityweb",
+"wasmFrameworkUrl": "141d1bc55dfe95ff5ced1aad5b169d65.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#000000",
+"cacheControl": {"default": "must-revalidate"}
+}
